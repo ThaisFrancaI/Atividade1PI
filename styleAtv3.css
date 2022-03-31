@@ -1,0 +1,27 @@
+.A {
+    background-color: #e34cf4;
+    width: 60px;
+    height: 400px;
+}
+.B {
+    background-color: #d71e24;
+    height: 50%;
+    width: 25%;
+}
+.C {
+    background-color: rgb(222, 232, 29);
+    color: rgb(169, 225, 242);
+    font-size: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+}
+.D {
+    background-color: rgb(33, 22, 240);
+    width: 450px;
+    height: 500px;
+}
+.E {
+    height: 300px;
+    background-color: rgb(80, 30, 245);
+    width: 500px;
+}
